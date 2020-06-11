@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "thyme",
+            "version": "1.0.0",
+            "description": "Thyme is a time based caching library written for python",
+            "longDescription": "Leveraging speed and accessibility, caches can help speed up overall database performance by lowering the amount of database calls that are made",
+            "githubLink": "https://github.com/michaelpeterswa/thyme",
+            "date": "06.11.2020"
+        }
+    ]
+}
