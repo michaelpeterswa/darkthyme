@@ -2,3 +2,5 @@
 darkthyme/__pycache__
 darkthyme.egg-info/
 dist/
+build/
+env/
