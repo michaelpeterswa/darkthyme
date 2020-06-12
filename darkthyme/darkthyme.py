@@ -1,6 +1,6 @@
 # Cache class
 # Michael Peters
-from cacheitem import CacheItem
+from .cacheitem import CacheItem
 
 
 class DarkThyme:

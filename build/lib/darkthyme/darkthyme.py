@@ -1,6 +1,6 @@
 # Cache class
 # Michael Peters
-from cacheitem import CacheItem
+from .cacheitem import CacheItem
 
 
 class DarkThyme:
@@ -16,8 +16,8 @@ class DarkThyme:
         self.__dict[key] = object
 
     def get(self, key):
-	self.removeExpiredKeys()
-	return self.__dict.get(key)
+        self.removeExpiredKeys()
+        return self.__dict.get(key)
 
     def removeExpiredKeys(self):
         for key, val in list(self.__dict.items()):

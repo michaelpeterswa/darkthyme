@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="darkthyme",
-    version="1.0.1",
+    version="1.0.2",
     author="Michael Peters",
     author_email="michael@michaelpeterswa.com",
     description="A time based cache for python",

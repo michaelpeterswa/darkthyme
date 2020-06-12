@@ -43,11 +43,11 @@ class CacheItem(object):
         else:
             return False
 
-    def printItem(self):
+    # def printItem(self):
 
-        print("------------------------")
-        print("Key: %s" % self.__getKey__())
-        print("Object: " + self.__getObjectStr__())
-        print("Duration: %s" % self.__getDuration__())
-        print("TimeCreated: %s" % self.__getTime__())
-        print("------------------------")
+    #     print("------------------------")
+    #     print("Key: %s" % self.__getKey__())
+    #     print("Object: " + self.__getObjectStr__())
+    #     print("Duration: %s" % self.__getDuration__())
+    #     print("TimeCreated: %s" % self.__getTime__())
+    #     print("------------------------")
