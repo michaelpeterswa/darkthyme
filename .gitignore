@@ -1,0 +1,4 @@
+.vscode/
+darkthyme/__pycache__
+darkthyme.egg-info/
+dist/

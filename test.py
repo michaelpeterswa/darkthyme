@@ -1,0 +1,3 @@
+import darkthyme
+
+cache = DarkThyme()
