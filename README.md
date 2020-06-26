@@ -1,9 +1,9 @@
-# thyme
-Thyme is a time based caching library written for python
+# darkthyme
+DarkThyme is a time based caching library written for python
 > Leveraging speed and accessibility, caches can help speed up overall database performance by lowering the amount of database calls that are made
 ## Installation
 ```
-git clone https://github.com/michaelpeterswa/thyme.git
+git clone https://github.com/michaelpeterswa/darkthyme.git
 ```
 Or download the file manually.
 ## Release History
